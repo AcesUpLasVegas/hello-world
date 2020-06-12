@@ -1,4 +1,4 @@
-Found this on Steam support community for The Messenger game. Worked
+Found this on Steam support community for The Messenger game. Worked for iBuffalo SNES pad
 
 FIX: Controller not recognized
 I spent well over an hour trying to get my controller (the 8BitDo N30 Pro 2) to be recognized in the game and finally found a solution:
